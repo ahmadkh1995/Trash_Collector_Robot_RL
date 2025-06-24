@@ -1,6 +1,6 @@
-# Garbage Collector Robot RL
+# Trash Collector Robot RL
 
-This project implements a reinforcement learning (RL) environment and agents for a garbage collector robot simulation. The robot navigates a grid, collects trash, and avoids obstacles while learning optimal strategies using Q-Learning and Deep Q-Networks (DQN).
+This project implements a reinforcement learning (RL) environment and agents for a Trash collector robot simulation. The robot navigates a grid, collects trash, and avoids obstacles while learning optimal strategies using Q-Learning and Deep Q-Networks (DQN).
 
 <div align="center">  
    <img src="trash_collector_robot.png" alt="RL Robot" width="400" height="350"/>
