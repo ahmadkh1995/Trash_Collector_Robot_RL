@@ -2,9 +2,9 @@
 
 This project implements a reinforcement learning (RL) environment and agents for a garbage collector robot simulation. The robot navigates a grid, collects trash, and avoids obstacles while learning optimal strategies using Q-Learning and Deep Q-Networks (DQN).
 
-
-<img src="trash_collector_robot.png" alt="RL Robot" width="400" height="400"/>
-
+<div align="center">  
+   <img src="trash_collector_robot.png" alt="RL Robot" width="400" height="350"/>
+</div>
 
 
 ## Features
@@ -18,8 +18,8 @@ This project implements a reinforcement learning (RL) environment and agents for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmadkh1995/garbage_collector_robot_1.git
-   cd garbage_collector_robot_1
+   git clone https://github.com/ahmadkh1995/Trash_Collector_Robot_RL.git
+   cd Trash_Collector_Robot_RL
    
 2. Install dependencies:
    ```bash
